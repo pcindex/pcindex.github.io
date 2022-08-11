@@ -1,0 +1,18 @@
+h1{
+    font-family: sans-serif, Courier, Impact, Arial;
+    color: #FF0000;
+    line-height: 200%;
+}
+
+p{
+    font-family: cursive;
+    color: #00FF00;
+    font-size: 200%;
+    text-align: right;
+}
+
+h2{
+    font-family: monospace;
+    color: #0000FF;
+    font-style: italic;
+}
